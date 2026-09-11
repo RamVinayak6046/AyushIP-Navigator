@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@layer utilities {
+  /* Clean light theme card with signature orange top border matching screenshot */
+  .orange-top-card {
+    background-color: #ffffff;
+    border: 1px solid #f1f5f9;
+    border-top: 4px solid #f97316;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease-in-out;
+  }
+  .orange-top-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+  }
+
+  .orange-top-card-sm {
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-top: 3px solid #f97316;
+    border-radius: 0.75rem;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease-in-out;
+  }
+  .orange-top-card-sm:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px -2px rgba(0, 0, 0, 0.08);
+  }
+}
+
+/* Custom clean scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #f97316;
+}
+
+::selection {
+  background: #ffedd5;
+  color: #c2410c;
+}

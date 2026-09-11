@@ -1,0 +1,1371 @@
+{
+  "products": [
+    {
+      "id": "prod-ashwa-joint-001",
+      "name": "Ashwagandha & Haridra Joint Relief Synergy",
+      "brandName": "ArthriSakti Pro",
+      "description": "Synergistic formulation combining standardized hydroalcoholic Ashwagandha root extract and supercritical CO2 Curcuma longa extract with bioenhancing Piper longum.",
+      "intendedUse": "Musculoskeletal comfort and healthy joint mobility support.",
+      "healthClaims": [
+        "Promotes healthy joint mobility and comfort",
+        "Supports natural anti-inflammatory response without gastric irritation"
+      ],
+      "dosageForm": "CAPSULE",
+      "ingredients": [
+        {
+          "sanskritName": "Ashwagandha",
+          "commonName": "Indian Ginseng",
+          "botanicalName": "Withania somnifera (L.) Dunal",
+          "plantPart": "Root",
+          "ratio": "5:1 extract",
+          "concentration": "250mg (standardized to 5% withanolides)",
+          "extractionMethod": "Hydroalcoholic extraction (50:50 water/ethanol)",
+          "pharmacopoeiaRef": "API Part I, Vol. I, pg 19",
+          "traditionalRef": "Charaka Samhita Chikitsasthana 1 (Rasayana)",
+          "tkdlFlag": true,
+          "isClassicalMatch": false
+        },
+        {
+          "sanskritName": "Haridra",
+          "commonName": "Turmeric",
+          "botanicalName": "Curcuma longa L.",
+          "plantPart": "Rhizome",
+          "ratio": "10:1 extract",
+          "concentration": "200mg (standardized to 95% curcuminoids)",
+          "extractionMethod": "Supercritical CO2 fluid extraction",
+          "pharmacopoeiaRef": "API Part I, Vol. I, pg 45",
+          "traditionalRef": "Charaka Samhita Sutrasthana 4 (Shothahara)",
+          "tkdlFlag": true,
+          "isClassicalMatch": false
+        },
+        {
+          "sanskritName": "Pippali",
+          "commonName": "Long Pepper",
+          "botanicalName": "Piper longum L.",
+          "plantPart": "Dried Spikes",
+          "ratio": "Crude powder",
+          "concentration": "25mg (standardized to 1.5% piperine)",
+          "extractionMethod": "Micronized fine powder (Mesh 120)",
+          "pharmacopoeiaRef": "API Part I, Vol. IV, pg 91",
+          "traditionalRef": "Sharangadhara Samhita (Yogavahi / Bioenhancer)",
+          "tkdlFlag": true,
+          "isClassicalMatch": false
+        }
+      ],
+      "applicantType": "INDIAN_MSME",
+      "resourceSource": "CULTIVATED",
+      "stateJurisdiction": "Madhya Pradesh",
+      "hasForeignEquity": false,
+      "hasNovelProcess": true,
+      "isClassicalTextBased": false,
+      "classicalTextReference": "Ingredients in 1st Schedule texts, but combination & supercritical CO2 extract ratio are proprietary",
+      "classification": "PATENT_PROPRIETARY",
+      "classificationRationale": "Ingredients exist in First Schedule Ayurvedic texts (API), but the specific synergistic ratio and supercritical extraction represent a Patent/Proprietary (P&P) ASU formulation under Section 3(h) of Drugs & Cosmetics Act.",
+      "targetExportMarket": "USA",
+      "status": "ASSESSED",
+      "createdAt": "2026-09-01T10:00:00.000Z",
+      "updatedAt": "2026-09-05T08:00:00.000Z"
+    }
+  ],
+  "assessments": [
+    {
+      "id": "asmt-vqbha96",
+      "productId": "prod-classical-yogaraja-002",
+      "productName": "Classical Yogaraja Guggulu Vati",
+      "jurisdiction": "INDIA",
+      "classification": "CLASSICAL_GENERIC",
+      "patentRoute": {
+        "status": "High Risk of Patent Rejection",
+        "novelty": "Unlikely (Prior Art Exists)",
+        "inventiveStep": "Requires detailed review",
+        "traditionalKnowledgeFlag": true,
+        "priorArtMatches": [
+          "Pre-existing classical formulation in First Schedule texts (e.g. Charaka / Bhaishajya Ratnavali; documented in TKDL)",
+          "Commiphora mukul documented in TKDL (Ref: SS-089; Sushruta Samhita) for deep Lekhana and joint comfort."
+        ],
+        "exclusionsApplicable": [
+          "Section 3(p) - Traditional Knowledge Bar",
+          "Section 3(e) - Mere Admixture"
+        ],
+        "recommendations": [
+          "Classical generic yogas cannot be patented as products. Consider protecting proprietary manufacturing apparatus or unique delivery systems under the Designs Act or Patents Act for apparatus only."
+        ]
+      },
+      "trademarkRoute": {
+        "status": "Trademark Class Evaluation Complete",
+        "classes": [
+          "Class 5 (Ayurvedic & Pharmaceutical preparations)"
+        ],
+        "genericNameConflict": false,
+        "sanskritDescriptiveBar": false,
+        "guidance": "The proposed mark appears distinctive. Conduct a comprehensive phonetical and identical search on the IP India Trade Marks Registry Class 5/3 before filing."
+      },
+      "giRoute": {
+        "relevance": "Potential GI Overlap Identified",
+        "guidance": "Verify compliance with registered GIs such as Navara Rice (GI #115), Malabar Pepper (GI #49), or Alleppey Green Cardamom (GI #65). Uncertified commercial use of GI names is prohibited under Section 8/11 of GI Act 1999."
+      },
+      "designCopyrightRoute": {
+        "designProtection": "Unique packaging bottles, blister geometries, and specialized applicators can be protected under the Designs Act 2000 (10-year renewable term).",
+        "copyrightProtection": "Original label artistic artwork, packaging illustrations, and educational patient brochures receive automatic copyright protection under the Copyright Act 1957."
+      },
+      "absRoute": {
+        "resourceDetected": true,
+        "sourceIdentified": true,
+        "commercialActivity": true,
+        "ipActivity": true,
+        "absStatus": "Exempted",
+        "formsRequired": [],
+        "reason": "Registered traditional AYUSH practitioners (Vaidyas) dispensing medicine to patients are specifically exempted under Section 7 Proviso of the 2023 Biodiversity Amendment Act.",
+        "authority": "State Biodiversity Board (SBB)"
+      },
+      "regulatoryPathway": {
+        "framework": "Drugs and Cosmetics Act 1940 & Rules 1945 (Rule 158-B(I))",
+        "documentationRequired": [
+          "Literature reference from First Schedule authoritative texts (e.g. Bhaishajya Ratnavali, AFI, API)",
+          "Batch Manufacturing Record (BMR) compliant with Schedule T (Good Manufacturing Practices)"
+        ],
+        "safetyTestingRequired": [
+          "Heavy metals analysis (Lead, Cadmium, Mercury, Arsenic within AYUSH limits)",
+          "Microbial load testing and pesticide residue clearance"
+        ],
+        "labellingMandates": [
+          "Label must clearly display classical text reference, classical yoga name, batch number, and Schedule T GMP license"
+        ],
+        "advertisingScrutiny": [
+          "Must not make direct disease cure claims prohibited under Drugs and Magic Remedies Act 1954 (54 scheduled diseases)"
+        ],
+        "licensingAuthority": "State Licensing Authority (Ayush)",
+        "licensingPathway": "Form 25D (License to manufacture Ayurvedic/Siddha/Unani drugs) from State Ayush Drug Controller."
+      },
+      "evidenceLevel": "HIGH",
+      "confidence": "MEDIUM CONFIDENCE",
+      "safeAbstention": false,
+      "sourcesSearched": 17,
+      "relevantEvidenceCount": 4,
+      "evidence": [
+        {
+          "id": "patents-act-3p",
+          "authority": "Indian Patent Office (CGPDTM) / Ministry of Commerce & Industry",
+          "framework": "The Patents Act, 1970 (as amended up to Patents Rules, 2024)",
+          "section": "Section 3(p)",
+          "jurisdiction": "INDIA",
+          "title": "Traditional Knowledge Non-Patentability Bar",
+          "passage": "The following are not inventions within the meaning of this Act: (p) an invention which in effect is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components. In Ayurvedic applications, combinations of herbs with known traditional uses cannot be patented as products unless non-obvious synergistic efficacy is experimentally demonstrated.",
+          "strength": "HIGH",
+          "sourceUrl": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf#page=14",
+          "pageNumber": 14,
+          "pageRecord": "Patents Act 1970, Section 3(p), p. 14",
+          "verificationStatus": "VERIFIED_OFFICIAL",
+          "version": "Act No. 39 of 1970 (Amended 2005 & Rules 2024)",
+          "effectiveDate": "2005-01-01",
+          "tags": [
+            "patent",
+            "traditional knowledge",
+            "exclusion",
+            "section 3p",
+            "tkdl"
+          ]
+        },
+        {
+          "id": "bda-section-3",
+          "authority": "National Biodiversity Authority (NBA) / MoEFCC",
+          "framework": "Biological Diversity Act, 2002 (amended by BD (Amendment) Act, 2023)",
+          "section": "Section 3 & Section 4",
+          "jurisdiction": "INDIA",
+          "title": "Certain Persons Not to Undertake Biodiversity-Related Activities Without Approval",
+          "passage": "No person who is not a citizen of India, or a citizen who is an NRI, or a body corporate, association or organization incorporated or registered in India having foreign investment or management, shall obtain any biological resource occurring in India or knowledge associated thereto for research or for commercial utilization, without previous approval of the National Biodiversity Authority (Form 1).",
+          "strength": "HIGH",
+          "sourceUrl": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=4",
+          "pageNumber": 4,
+          "pageRecord": "Biological Diversity Act 2002, Section 3, p. 4",
+          "verificationStatus": "VERIFIED_OFFICIAL",
+          "version": "Biological Diversity Rules 2024 / Act 2023",
+          "effectiveDate": "2024-01-01",
+          "tags": [
+            "abs",
+            "nba",
+            "foreign entity",
+            "section 3",
+            "approval"
+          ]
+        },
+        {
+          "id": "bda-section-6",
+          "authority": "National Biodiversity Authority (NBA)",
+          "framework": "Biological Diversity Act, 2002 & Biological Diversity Rules, 2024",
+          "section": "Section 6 & Rule 18 (Form 3)",
+          "jurisdiction": "INDIA",
+          "title": "Application for Intellectual Property Rights on Biological Resources",
+          "passage": "No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India without obtaining previous approval of the National Biodiversity Authority before grant of the patent. Under the 2024 Rules, an application in Form 3 must be filed; benefit sharing is calculated at 0.1% to 0.5% of ex-factory commercial sales or mutually agreed terms.",
+          "strength": "HIGH",
+          "sourceUrl": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=5",
+          "pageNumber": 5,
+          "pageRecord": "Biological Diversity Act 2002, Section 6, p. 5",
+          "verificationStatus": "VERIFIED_OFFICIAL",
+          "version": "BDA Rules 2024, Rule 18",
+          "effectiveDate": "2024-03-01",
+          "tags": [
+            "abs",
+            "nba",
+            "ipr",
+            "form 3",
+            "benefit sharing",
+            "section 6"
+          ]
+        },
+        {
+          "id": "bda-section-7-exemption",
+          "authority": "National Biodiversity Authority (NBA) / Ministry of Ayush",
+          "framework": "Biological Diversity (Amendment) Act, 2023 & Clarification Orders",
+          "section": "Section 7 Proviso & Section 40",
+          "jurisdiction": "INDIA",
+          "title": "Exemptions for Local Vaidyas, Registered AYUSH Practitioners & Cultivated Plants",
+          "passage": "Under the 2023 Amendment to the Biological Diversity Act, registered AYUSH practitioners (Vaidyas, Hakims) and local people practicing indigenous medicine are exempted from prior intimation to State Biodiversity Boards (SBBs) for accessing biological resources for their own dispensing and treatment. Furthermore, cultivated medicinal plants (with verifiable origin certification) are accorded simplified pathways without predatory access levies.",
+          "strength": "HIGH",
+          "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/247854.pdf#page=3",
+          "pageNumber": 3,
+          "pageRecord": "Biological Diversity (Amendment) Act 2023, Section 7 Proviso, p. 3",
+          "verificationStatus": "VERIFIED_OFFICIAL",
+          "version": "Act No. 10 of 2023",
+          "effectiveDate": "2023-08-01",
+          "tags": [
+            "abs",
+            "ayush",
+            "vaidya",
+            "exemption",
+            "cultivated",
+            "sbb"
+          ]
+        }
+      ],
+      "citations": [
+        {
+          "id": "cit-patents-act-3p",
+          "authority": "Indian Patent Office (CGPDTM) / Ministry of Commerce & Industry",
+          "document": "The Patents Act, 1970 (as amended up to Patents Rules, 2024)",
+          "section": "Section 3(p)",
+          "pageRecord": "Patents Act 1970, Section 3(p), p. 14",
+          "source": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf#page=14",
+          "passage": "The following are not inventions within the meaning of this Act: (p) an invention which in effect is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components. In Ayurvedic applications, combinations of herbs with known traditional uses cannot be patented as products unless non-obvious synergistic efficacy is experimentally demonstrated."
+        },
+        {
+          "id": "cit-bda-section-3",
+          "authority": "National Biodiversity Authority (NBA) / MoEFCC",
+          "document": "Biological Diversity Act, 2002 (amended by BD (Amendment) Act, 2023)",
+          "section": "Section 3 & Section 4",
+          "pageRecord": "Biological Diversity Act 2002, Section 3, p. 4",
+          "source": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=4",
+          "passage": "No person who is not a citizen of India, or a citizen who is an NRI, or a body corporate, association or organization incorporated or registered in India having foreign investment or management, shall obtain any biological resource occurring in India or knowledge associated thereto for research or for commercial utilization, without previous approval of the National Biodiversity Authority (Form 1)."
+        },
+        {
+          "id": "cit-bda-section-6",
+          "authority": "National Biodiversity Authority (NBA)",
+          "document": "Biological Diversity Act, 2002 & Biological Diversity Rules, 2024",
+          "section": "Section 6 & Rule 18 (Form 3)",
+          "pageRecord": "Biological Diversity Act 2002, Section 6, p. 5",
+          "source": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=5",
+          "passage": "No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India without obtaining previous approval of the National Biodiversity Authority before grant of the patent. Under the 2024 Rules, an application in Form 3 must be filed; benefit sharing is calculated at 0.1% to 0.5% of ex-factory commercial sales or mutually agreed terms."
+        },
+        {
+          "id": "cit-bda-section-7-exemption",
+          "authority": "National Biodiversity Authority (NBA) / Ministry of Ayush",
+          "document": "Biological Diversity (Amendment) Act, 2023 & Clarification Orders",
+          "section": "Section 7 Proviso & Section 40",
+          "pageRecord": "Biological Diversity (Amendment) Act 2023, Section 7 Proviso, p. 3",
+          "source": "https://egazette.gov.in/WriteReadData/2023/247854.pdf#page=3",
+          "passage": "Under the 2023 Amendment to the Biological Diversity Act, registered AYUSH practitioners (Vaidyas, Hakims) and local people practicing indigenous medicine are exempted from prior intimation to State Biodiversity Boards (SBBs) for accessing biological resources for their own dispensing and treatment. Furthermore, cultivated medicinal plants (with verifiable origin certification) are accorded simplified pathways without predatory access levies."
+        }
+      ],
+      "aiReasoning": "Under the Indian statutory framework, Classical Yogaraja Guggulu Vati is categorized as a CLASSICAL GENERIC. Because its botanical ingredients (Guggulu, Haritaki) have extensive classical citations in First Schedule authoritative texts and the TKDL, product patent claims will encounter absolute rejection under Section 3(p) and Section 3(e) unless clear, non-obvious synergistic efficacy is proven with quantitative bioassays. However, the proprietary processing technique qualifies for process patent protection. For regulatory licensing under Drugs & Cosmetics Rule 158-B(II), acute toxicity and heavy metal validation are required. Furthermore, biological resource utilization triggers the Biological Diversity Act, necessitating State Biodiversity Board intimation and NBA Form 3 clearance prior to any patent grant.",
+      "recommendedNextSteps": [
+        {
+          "stage": "Stage 1: Traditional Knowledge & Prior Art Clearance",
+          "title": "TKDL & Patent Database Clearance Search",
+          "description": "Perform a comprehensive prior-art search across the Indian Patent Advanced Search System (InPASS), TKDL, and WIPO PATENTSCOPE to map existing citations for Guggulu, Haritaki.",
+          "priority": "HIGH"
+        },
+        {
+          "stage": "Stage 2: Biological Resource & ABS Formalities",
+          "title": "File Intimation / Permission with State Biodiversity Board (SBB)",
+          "description": "Initiate Access & Benefit Sharing (ABS) compliance with NBA/SBB to avoid punitive seizure under amended Section 55 of Biological Diversity Act.",
+          "priority": "HIGH"
+        },
+        {
+          "stage": "Stage 3: Regulatory Dossier & Labelling Compliance",
+          "title": "Prepare Rule 158-B Licensing Dossier",
+          "description": "Complete acute oral toxicity testing (OECD 423) and heavy metals testing at a NABL/GLP accredited laboratory; draft product carton strictly adhering to DMR Act advertising boundaries.",
+          "priority": "MEDIUM"
+        },
+        {
+          "stage": "Stage 4: Intellectual Property Execution",
+          "title": "Trademark Registration in Class 5/3",
+          "description": "File coined trademark application on IP India e-filing portal to secure brand equity without using descriptive Sanskrit terms.",
+          "priority": "MEDIUM"
+        }
+      ],
+      "humanReviewFlags": [
+        "Classical Yoga Match: Patent application faces statutory rejection under Section 3(p). Professional IP attorney review recommended."
+      ],
+      "disclaimer": "Information and decision-support only. This system does not replace qualified legal or regulatory advice.",
+      "createdAt": "2026-09-08T16:52:03.550Z"
+    },
+    {
+      "id": "asmt-x56y6sj",
+      "productId": "prod-brahmi-drink-009",
+      "productName": "Brahmi Mind Sharpening Botanical Drink",
+      "jurisdiction": "INDIA",
+      "classification": "AYURVEDA_AAHAR",
+      "patentRoute": {
+        "status": "Potentially relevant",
+        "novelty": "Requires detailed review",
+        "inventiveStep": "Requires detailed review",
+        "traditionalKnowledgeFlag": true,
+        "priorArtMatches": [
+          "Bacopa monnieri documented in TKDL (Ref: CS-310; Charaka Chikitsasthana 1) as Medhya Rasayana for cognitive enhancement (Dhi, Dhriti, Smriti)."
+        ],
+        "exclusionsApplicable": [],
+        "recommendations": [
+          "Plant Variety Rights (PPVFR Act 2001): If using improved cultivars (e.g. high-withanolide Ashwagandha cv. \"Pratap Shweta\", high-curcumin Curcuma longa cv. \"Pratibha\"), verify whether the cultivar is registered under PPVFR. Registered varieties have 15-18 year exclusive propagation rights under Section 14/15. Farmers retain rights under Section 39(1)(iv) to save and resow produce."
+        ]
+      },
+      "trademarkRoute": {
+        "status": "Trademark Class Evaluation Complete",
+        "classes": [
+          "Class 30 (Dietetic food, herbal infusions)",
+          "Class 5 (Pharmaceutical/dietetic adapted for medical use)"
+        ],
+        "genericNameConflict": false,
+        "sanskritDescriptiveBar": false,
+        "guidance": "The proposed mark appears distinctive. Conduct a comprehensive phonetical and identical search on the IP India Trade Marks Registry Class 5/3 before filing."
+      },
+      "giRoute": {
+        "relevance": "Low / No Direct GI Conflict",
+        "guidance": "No geographic place-name indicators identified in formulation title. Standard branding permitted."
+      },
+      "designCopyrightRoute": {
+        "designProtection": "Unique packaging bottles, blister geometries, and specialized applicators can be protected under the Designs Act 2000 (10-year renewable term).",
+        "copyrightProtection": "Original label artistic artwork, packaging illustrations, and educational patient brochures receive automatic copyright protection under the Copyright Act 1957."
+      },
+      "absRoute": {
+        "resourceDetected": true,
+        "sourceIdentified": true,
+        "commercialActivity": true,
+        "ipActivity": true,
+        "absStatus": "SBB Intimation Required",
+        "formsRequired": [
+          "Form A (Intimation to SBB with Cultivation Certificate)",
+          "Form 3 (NBA approval before Patent grant under Section 6)"
+        ],
+        "reason": "Cultivated biological resources enjoy streamlined benefit-sharing under 2024 BDA Rules upon submitting valid cultivator origin certificates to the State Biodiversity Board.",
+        "authority": "State Biodiversity Board (SBB)"
+      },
+      "regulatoryPathway": {
+        "framework": "Food Safety and Standards (Ayurveda Aahar) Regulations, 2022 (FSSAI)",
+        "documentationRequired": [
+          "Compliance declaration with Schedule I & II of FSSAI Ayurveda Aahar Regulations",
+          "Safety certificate and authentic traditional dietary rationale"
+        ],
+        "safetyTestingRequired": [
+          "Food safety contaminants testing (heavy metals, mycotoxins, pesticide residues)"
+        ],
+        "labellingMandates": [
+          "Mandatory Ayurveda Aahar official logo with green leaf motif",
+          "Advisory statement: \"FOR GENERAL HEALTH AND WELL-BEING ONLY. NOT FOR MEDICINAL USE.\""
+        ],
+        "advertisingScrutiny": [
+          "ABSOLUTE PROHIBITION on therapeutic disease claims. Any claim of curing arthritis, diabetes, or obesity revokes the food license immediately."
+        ],
+        "licensingAuthority": "Food Safety and Standards Authority of India (FSSAI) Central/State Licensing",
+        "licensingPathway": "FSSAI License under Ayurveda Aahar Category (Food Category 13/14)."
+      },
+      "evidenceLevel": "HIGH",
+      "confidence": "MEDIUM CONFIDENCE",
+      "safeAbstention": false,
+      "sourcesSearched": 17,
+      "relevantEvidenceCount": 4,
+      "evidence": [
+        {
+          "id": "patents-act-3p",
+          "authority": "Indian Patent Office (CGPDTM) / Ministry of Commerce & Industry",
+          "framework": "The Patents Act, 1970 (as amended up to Patents Rules, 2024)",
+          "section": "Section 3(p)",
+          "jurisdiction": "INDIA",
+          "title": "Traditional Knowledge Non-Patentability Bar",
+          "passage": "The following are not inventions within the meaning of this Act: (p) an invention which in effect is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components. In Ayurvedic applications, combinations of herbs with known traditional uses cannot be patented as products unless non-obvious synergistic efficacy is experimentally demonstrated.",
+          "strength": "HIGH",
+          "sourceUrl": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf#page=14",
+          "pageNumber": 14,
+          "pageRecord": "Patents Act 1970, Section 3(p), p. 14",
+          "verificationStatus": "VERIFIED_OFFICIAL",
+          "version": "Act No. 39 of 1970 (Amended 2005 & Rules 2024)",
+          "effectiveDate": "2005-01-01",
+          "tags": [
+            "patent",
+            "traditional knowledge",
+            "exclusion",
+            "section 3p",
+            "tkdl"
+          ]
+        },
+        {
+          "id": "fssai-ayurveda-aahar-2022",
+          "authority": "Food Safety and Standards Authority of India (FSSAI) & Ministry of Ayush",
+          "framework": "Food Safety and Standards (Ayurveda Aahar) Regulations, 2022",
+          "section": "Regulations 3, 4, 5 & Schedule I/II",
+          "jurisdiction": "INDIA",
+          "title": "Ayurveda Aahar (Food) Standards and Disease Claim Prohibitions",
+          "passage": "Ayurveda Aahar covers food prepared in accordance with recipes or ingredients described in authoritative Ayurvedic texts, meant for daily consumption for physiological well-being. Prohibitions: No manufacturer shall describe an Ayurveda Aahar as capable of treating, curing, or preventing any human disease. Only health promotion, Rasayana, and physiological balance claims are permitted. Labelling must feature the dedicated Ayurveda Aahar logo and advisory statements.",
+          "strength": "HIGH",
+          "sourceUrl": "https://fssai.gov.in/upload/notifications/2022/05/627a3f4caef0bGazette_Notification_Ayurveda_Aahar_09_05_2022.pdf#page=4",
+          "pageNumber": 4,
+          "pageRecord": "FSSAI Gazette F. No. Std/SP-05/A-1.2022/N-01, Reg. 3-5, p. 4",
+          "verificationStatus": "VERIFIED_OFFICIAL",
+          "version": "Gazette Notification F. No. Std/SP-05/A-1.2022/N-01",
+          "effectiveDate": "2022-05-05",
+          "tags": [
+            "regulatory",
+            "fssai",
+            "ayurveda aahar",
+            "nutraceutical",
+            "food",
+            "claims prohibition"
+          ]
+        },
+        {
+          "id": "bda-section-3",
+          "authority": "National Biodiversity Authority (NBA) / MoEFCC",
+          "framework": "Biological Diversity Act, 2002 (amended by BD (Amendment) Act, 2023)",
+          "section": "Section 3 & Section 4",
+          "jurisdiction": "INDIA",
+          "title": "Certain Persons Not to Undertake Biodiversity-Related Activities Without Approval",
+          "passage": "No person who is not a citizen of India, or a citizen who is an NRI, or a body corporate, association or organization incorporated or registered in India having foreign investment or management, shall obtain any biological resource occurring in India or knowledge associated thereto for research or for commercial utilization, without previous approval of the National Biodiversity Authority (Form 1).",
+          "strength": "HIGH",
+          "sourceUrl": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=4",
+          "pageNumber": 4,
+          "pageRecord": "Biological Diversity Act 2002, Section 3, p. 4",
+          "verificationStatus": "VERIFIED_OFFICIAL",
+          "version": "Biological Diversity Rules 2024 / Act 2023",
+          "effectiveDate": "2024-01-01",
+          "tags": [
+            "abs",
+            "nba",
+            "foreign entity",
+            "section 3",
+            "approval"
+          ]
+        },
+        {
+          "id": "bda-section-6",
+          "authority": "National Biodiversity Authority (NBA)",
+          "framework": "Biological Diversity Act, 2002 & Biological Diversity Rules, 2024",
+          "section": "Section 6 & Rule 18 (Form 3)",
+          "jurisdiction": "INDIA",
+          "title": "Application for Intellectual Property Rights on Biological Resources",
+          "passage": "No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India without obtaining previous approval of the National Biodiversity Authority before grant of the patent. Under the 2024 Rules, an application in Form 3 must be filed; benefit sharing is calculated at 0.1% to 0.5% of ex-factory commercial sales or mutually agreed terms.",
+          "strength": "HIGH",
+          "sourceUrl": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=5",
+          "pageNumber": 5,
+          "pageRecord": "Biological Diversity Act 2002, Section 6, p. 5",
+          "verificationStatus": "VERIFIED_OFFICIAL",
+          "version": "BDA Rules 2024, Rule 18",
+          "effectiveDate": "2024-03-01",
+          "tags": [
+            "abs",
+            "nba",
+            "ipr",
+            "form 3",
+            "benefit sharing",
+            "section 6"
+          ]
+        }
+      ],
+      "citations": [
+        {
+          "id": "cit-patents-act-3p",
+          "authority": "Indian Patent Office (CGPDTM) / Ministry of Commerce & Industry",
+          "document": "The Patents Act, 1970 (as amended up to Patents Rules, 2024)",
+          "section": "Section 3(p)",
+          "pageRecord": "Patents Act 1970, Section 3(p), p. 14",
+          "source": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf#page=14",
+          "passage": "The following are not inventions within the meaning of this Act: (p) an invention which in effect is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components. In Ayurvedic applications, combinations of herbs with known traditional uses cannot be patented as products unless non-obvious synergistic efficacy is experimentally demonstrated."
+        },
+        {
+          "id": "cit-fssai-ayurveda-aahar-2022",
+          "authority": "Food Safety and Standards Authority of India (FSSAI) & Ministry of Ayush",
+          "document": "Food Safety and Standards (Ayurveda Aahar) Regulations, 2022",
+          "section": "Regulations 3, 4, 5 & Schedule I/II",
+          "pageRecord": "FSSAI Gazette F. No. Std/SP-05/A-1.2022/N-01, Reg. 3-5, p. 4",
+          "source": "https://fssai.gov.in/upload/notifications/2022/05/627a3f4caef0bGazette_Notification_Ayurveda_Aahar_09_05_2022.pdf#page=4",
+          "passage": "Ayurveda Aahar covers food prepared in accordance with recipes or ingredients described in authoritative Ayurvedic texts, meant for daily consumption for physiological well-being. Prohibitions: No manufacturer shall describe an Ayurveda Aahar as capable of treating, curing, or preventing any human disease. Only health promotion, Rasayana, and physiological balance claims are permitted. Labelling must feature the dedicated Ayurveda Aahar logo and advisory statements."
+        },
+        {
+          "id": "cit-bda-section-3",
+          "authority": "National Biodiversity Authority (NBA) / MoEFCC",
+          "document": "Biological Diversity Act, 2002 (amended by BD (Amendment) Act, 2023)",
+          "section": "Section 3 & Section 4",
+          "pageRecord": "Biological Diversity Act 2002, Section 3, p. 4",
+          "source": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=4",
+          "passage": "No person who is not a citizen of India, or a citizen who is an NRI, or a body corporate, association or organization incorporated or registered in India having foreign investment or management, shall obtain any biological resource occurring in India or knowledge associated thereto for research or for commercial utilization, without previous approval of the National Biodiversity Authority (Form 1)."
+        },
+        {
+          "id": "cit-bda-section-6",
+          "authority": "National Biodiversity Authority (NBA)",
+          "document": "Biological Diversity Act, 2002 & Biological Diversity Rules, 2024",
+          "section": "Section 6 & Rule 18 (Form 3)",
+          "pageRecord": "Biological Diversity Act 2002, Section 6, p. 5",
+          "source": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=5",
+          "passage": "No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India without obtaining previous approval of the National Biodiversity Authority before grant of the patent. Under the 2024 Rules, an application in Form 3 must be filed; benefit sharing is calculated at 0.1% to 0.5% of ex-factory commercial sales or mutually agreed terms."
+        }
+      ],
+      "aiReasoning": "Under the Indian statutory framework, Brahmi Mind Sharpening Botanical Drink is categorized as a AYURVEDA AAHAR. Because its botanical ingredients (Brahmi, Shankhapushpi) have extensive classical citations in First Schedule authoritative texts and the TKDL, product patent claims will encounter absolute rejection under Section 3(p) and Section 3(e) unless clear, non-obvious synergistic efficacy is proven with quantitative bioassays. However, the proprietary processing technique qualifies for process patent protection. For regulatory licensing under Drugs & Cosmetics Rule 158-B(II), acute toxicity and heavy metal validation are required. Furthermore, biological resource utilization triggers the Biological Diversity Act, necessitating State Biodiversity Board intimation and NBA Form 3 clearance prior to any patent grant.",
+      "recommendedNextSteps": [
+        {
+          "stage": "Stage 1: Traditional Knowledge & Prior Art Clearance",
+          "title": "TKDL & Patent Database Clearance Search",
+          "description": "Perform a comprehensive prior-art search across the Indian Patent Advanced Search System (InPASS), TKDL, and WIPO PATENTSCOPE to map existing citations for Brahmi, Shankhapushpi.",
+          "priority": "HIGH"
+        },
+        {
+          "stage": "Stage 2: Biological Resource & ABS Formalities",
+          "title": "File Intimation / Permission with State Biodiversity Board (SBB)",
+          "description": "Secure Cultivator Origin Certificate to claim simplified benefit-sharing with SBB; prepare Form 3 for NBA if patent filing is planned.",
+          "priority": "HIGH"
+        },
+        {
+          "stage": "Stage 3: Regulatory Dossier & Labelling Compliance",
+          "title": "Prepare Rule 158-B Licensing Dossier",
+          "description": "Complete acute oral toxicity testing (OECD 423) and heavy metals testing at a NABL/GLP accredited laboratory; draft product carton strictly adhering to DMR Act advertising boundaries.",
+          "priority": "MEDIUM"
+        },
+        {
+          "stage": "Stage 4: Intellectual Property Execution",
+          "title": "Trademark Registration in Class 5/3",
+          "description": "File coined trademark application on IP India e-filing portal to secure brand equity without using descriptive Sanskrit terms.",
+          "priority": "MEDIUM"
+        }
+      ],
+      "humanReviewFlags": [
+        "DMR Act 1954 Scrutiny: Health claims reference scheduled disease terms (cure). Direct curative/treatment claims for these conditions carry criminal liability under Section 3 of the DMR Act. Modify to functional wellness claims only."
+      ],
+      "disclaimer": "Information and decision-support only. This system does not replace qualified legal or regulatory advice.",
+      "createdAt": "2026-09-08T16:52:12.766Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-kcvqvmb",
+      "timestamp": "2026-09-04T15:28:18.091Z",
+      "action": "PRODUCT_SAVED",
+      "jurisdiction": "INDIA",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "Product \"jd\" created/updated with classification \"PATENT_PROPRIETARY\".",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-pdvgtp4",
+      "timestamp": "2026-09-04T15:28:18.133Z",
+      "action": "ASSESSMENT_COMPLETED",
+      "jurisdiction": "INTERNATIONAL",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "Evaluation performed for \"jd\" in INTERNATIONAL. Confidence: MEDIUM CONFIDENCE. Safe Abstention: false.",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-it0j8cz",
+      "timestamp": "2026-09-04T15:28:58.171Z",
+      "action": "ASSESSMENT_COMPLETED",
+      "jurisdiction": "INDIA",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "Evaluation performed for \"jd\" in INDIA. Confidence: MEDIUM CONFIDENCE. Safe Abstention: false.",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-2hvyc9o",
+      "timestamp": "2026-09-04T15:29:39.847Z",
+      "action": "AI_REASONING",
+      "jurisdiction": "INDIA",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "AI Answer generated for \"What ABS permissions and forms apply for this biological resource under the Biological Diversity Act?\". Evidence strength: INSUFFICIENT. Abstaining: true",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-kqtjusr",
+      "timestamp": "2026-09-04T15:29:44.976Z",
+      "action": "AI_REASONING",
+      "jurisdiction": "INDIA",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "AI Answer generated for \"Can this traditional formulation be patented? What are the Section 3(p) and Section 3(e) implications?\". Evidence strength: INSUFFICIENT. Abstaining: true",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-17f4z6s",
+      "timestamp": "2026-09-04T15:29:48.061Z",
+      "action": "AI_REASONING",
+      "jurisdiction": "INDIA",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "AI Answer generated for \"Can this formulation be marketed under FSSAI Ayurveda-Aahar with joint claims?\". Evidence strength: INSUFFICIENT. Abstaining: true",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-6shoady",
+      "timestamp": "2026-09-04T15:41:45.725Z",
+      "action": "SOURCE_SYNCED",
+      "jurisdiction": "INDIA",
+      "details": "Fetched and indexed public source \"wyrjsrr\" from https://aistudio.google.com/app/u/0/apps/cffc93f2-f73f-4797-987e-2cb04c732469?showPreview=true&showAssistant=true.",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-4d6oy2c",
+      "timestamp": "2026-09-04T16:56:21.329Z",
+      "action": "AI_REASONING",
+      "jurisdiction": "INTERNATIONAL",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "AI Answer generated for \"What ABS permissions and forms apply for this biological resource under the Biological Diversity Act?\". Evidence strength: INSUFFICIENT. Abstaining: true",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-f2pj4op",
+      "timestamp": "2026-09-04T16:56:35.277Z",
+      "action": "AI_REASONING",
+      "jurisdiction": "INDIA",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "AI Answer generated for \"Can this traditional formulation be patented? What are the Section 3(p) and Section 3(e) implications?\". Evidence strength: INSUFFICIENT. Abstaining: true",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-tbn4e2p",
+      "timestamp": "2026-09-04T16:59:44.880Z",
+      "action": "AI_REASONING",
+      "jurisdiction": "INDIA",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "AI Answer generated for \"can it patent\". Evidence strength: INSUFFICIENT. Abstaining: true",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-kqwq7jr",
+      "timestamp": "2026-09-04T17:05:32.749Z",
+      "action": "AI_REASONING",
+      "jurisdiction": "INDIA",
+      "productId": "prod-6y70n9a",
+      "productName": "jd",
+      "details": "AI Answer generated for \"Can this formulation be marketed under FSSAI Ayurveda-Aahar with joint claims?\". Evidence strength: INSUFFICIENT. Abstaining: true",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-429wenk",
+      "timestamp": "2026-09-05T03:58:12.347Z",
+      "action": "USER_REGISTERED",
+      "jurisdiction": "INDIA",
+      "details": "New innovator account registered: Dr. Arvind Vaidya (arvind.vaidya@ayuship.org) | Role: VAIDYA | Org: Kottakkal Ayurvedic Research Hospital | State: Kerala | Consents: DPDP 2023 & BDA 2002/2023 Verified",
+      "userEmail": "arvind.vaidya@ayuship.org"
+    },
+    {
+      "id": "log-104t0ae",
+      "timestamp": "2026-09-05T03:58:12.392Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Dr. Arvind Vaidya (arvind.vaidya@ayuship.org) | Role: VAIDYA | Org: Kottakkal Ayurvedic Research Hospital",
+      "userEmail": "arvind.vaidya@ayuship.org"
+    },
+    {
+      "id": "log-zun9jx5",
+      "timestamp": "2026-09-05T03:58:12.512Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Demo Ayurveda Innovator (demo@ayuship.in) | Role: STARTUP_MSME | Org: Ayush Innovation Labs",
+      "userEmail": "demo@ayuship.in"
+    },
+    {
+      "id": "log-gb2v244",
+      "timestamp": "2026-09-05T03:59:16.772Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Dr. Arvind Vaidya (arvind.vaidya@ayuship.org) | Role: VAIDYA | Org: Kottakkal Ayurvedic Research Hospital",
+      "userEmail": "arvind.vaidya@ayuship.org"
+    },
+    {
+      "id": "log-ehiop9u",
+      "timestamp": "2026-09-05T03:59:16.851Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Demo Ayurveda Innovator (demo@ayuship.in) | Role: STARTUP_MSME | Org: Ayush Innovation Labs",
+      "userEmail": "demo@ayuship.in"
+    },
+    {
+      "id": "log-5rb5gct",
+      "timestamp": "2026-09-05T04:00:10.971Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Dr. Arvind Vaidya (arvind.vaidya@ayuship.org) | Role: VAIDYA | Org: Kottakkal Ayurvedic Research Hospital",
+      "userEmail": "arvind.vaidya@ayuship.org"
+    },
+    {
+      "id": "log-mhonc9f",
+      "timestamp": "2026-09-05T04:00:11.051Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Demo Ayurveda Innovator (demo@ayuship.in) | Role: STARTUP_MSME | Org: Ayush Innovation Labs",
+      "userEmail": "demo@ayuship.in"
+    },
+    {
+      "id": "log-3cgroun",
+      "timestamp": "2026-09-05T04:01:18.331Z",
+      "action": "USER_REGISTERED",
+      "jurisdiction": "INDIA",
+      "details": "New innovator account registered: Dr. Arvind Vaidya (innovator.1788580878272@ayuship.org) | Role: VAIDYA | Org: Kottakkal Ayurvedic Research Hospital | State: Kerala | Consents: DPDP 2023 & BDA 2002/2023 Verified",
+      "userEmail": "innovator.1788580878272@ayuship.org"
+    },
+    {
+      "id": "log-hue5kyg",
+      "timestamp": "2026-09-05T04:01:18.374Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Dr. Arvind Vaidya (innovator.1788580878272@ayuship.org) | Role: VAIDYA | Org: Kottakkal Ayurvedic Research Hospital",
+      "userEmail": "innovator.1788580878272@ayuship.org"
+    },
+    {
+      "id": "log-vwysziq",
+      "timestamp": "2026-09-05T04:01:18.461Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Demo Ayurveda Innovator (demo@ayuship.in) | Role: STARTUP_MSME | Org: Ayush Innovation Labs",
+      "userEmail": "demo@ayuship.in"
+    },
+    {
+      "id": "log-qbu990v",
+      "timestamp": "2026-09-05T04:01:58.960Z",
+      "action": "USER_REGISTERED",
+      "jurisdiction": "INDIA",
+      "details": "New innovator account registered: Dr. Arvind Vaidya (innovator.1788580918884@ayuship.org) | Role: VAIDYA | Org: Kottakkal Ayurvedic Research Hospital | State: Kerala | Consents: DPDP 2023 & BDA 2002/2023 Verified",
+      "userEmail": "innovator.1788580918884@ayuship.org"
+    },
+    {
+      "id": "log-tskikfp",
+      "timestamp": "2026-09-05T04:01:59.005Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Dr. Arvind Vaidya (innovator.1788580918884@ayuship.org) | Role: VAIDYA | Org: Kottakkal Ayurvedic Research Hospital",
+      "userEmail": "innovator.1788580918884@ayuship.org"
+    },
+    {
+      "id": "log-7msgccb",
+      "timestamp": "2026-09-05T04:01:59.085Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Demo Ayurveda Innovator (demo@ayuship.in) | Role: STARTUP_MSME | Org: Ayush Innovation Labs",
+      "userEmail": "demo@ayuship.in"
+    },
+    {
+      "id": "log-6i5hvzx",
+      "timestamp": "2026-09-05T04:07:58.884Z",
+      "action": "USER_REGISTERED",
+      "jurisdiction": "INDIA",
+      "details": "New innovator account registered: Ram Vinayak (ramvinayakch@gmail.com) | Role: STARTUP_MSME | Org: demo work | State: Andhra Pradesh | Consents: DPDP 2023 & BDA 2002/2023 Verified",
+      "userEmail": "ramvinayakch@gmail.com"
+    },
+    {
+      "id": "log-sebjxmm",
+      "timestamp": "2026-09-05T04:08:06.239Z",
+      "action": "USER_LOGOUT",
+      "jurisdiction": "INDIA",
+      "details": "User logged out: ramvinayakch@gmail.com",
+      "userEmail": "ramvinayakch@gmail.com"
+    },
+    {
+      "id": "log-1hyx9w9",
+      "timestamp": "2026-09-05T04:08:18.300Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Ram Vinayak (ramvinayakch@gmail.com) | Role: STARTUP_MSME | Org: demo work",
+      "userEmail": "ramvinayakch@gmail.com"
+    },
+    {
+      "id": "log-3iyrbjp",
+      "timestamp": "2026-09-06T17:31:03.442Z",
+      "action": "USER_LOGIN",
+      "jurisdiction": "INDIA",
+      "details": "User logged in: Demo Ayurveda Innovator (demo@ayuship.in) | Role: STARTUP_MSME | Org: Ayush Innovation Labs",
+      "userEmail": "demo@ayuship.in"
+    },
+    {
+      "id": "log-cga89tu",
+      "timestamp": "2026-09-08T16:52:03.550Z",
+      "action": "ASSESSMENT_COMPLETED",
+      "jurisdiction": "INDIA",
+      "productId": "prod-classical-yogaraja-002",
+      "productName": "Classical Yogaraja Guggulu Vati",
+      "details": "Evaluation performed for \"Classical Yogaraja Guggulu Vati\" in INDIA. Confidence: MEDIUM CONFIDENCE. Safe Abstention: false.",
+      "userEmail": "system@ipsakti.local"
+    },
+    {
+      "id": "log-o5jiur3",
+      "timestamp": "2026-09-08T16:52:12.766Z",
+      "action": "ASSESSMENT_COMPLETED",
+      "jurisdiction": "INDIA",
+      "productId": "prod-brahmi-drink-009",
+      "productName": "Brahmi Mind Sharpening Botanical Drink",
+      "details": "Evaluation performed for \"Brahmi Mind Sharpening Botanical Drink\" in INDIA. Confidence: MEDIUM CONFIDENCE. Safe Abstention: false.",
+      "userEmail": "system@ipsakti.local"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-ayush-001",
+      "name": "Demo Ayurveda Innovator",
+      "email": "demo@ayuship.in",
+      "passwordHash": "b6f74ccd1cfd5408a4abb8197d047b65:3c3e5b297c80ee9e3b9587bb2351fc27c0b6fbd11ce84f43f4537f329253e1e0114264341c119c7416a2a0b4ad0f9deb8cd2f37f7346ddf26070d07bd1a58fef",
+      "role": "STARTUP_MSME",
+      "organization": "Ayush Innovation Labs",
+      "state": "Kerala",
+      "dpdpConsent": true,
+      "bdaComplianceAck": true,
+      "legalConsentDate": "2026-09-05T03:58:12.471Z",
+      "registeredAt": "2026-09-05T03:58:12.471Z",
+      "lastLoginAt": "2026-09-06T17:31:03.439Z"
+    },
+    {
+      "id": "usr-mtnuripl-xpx8l",
+      "name": "Dr. Arvind Vaidya",
+      "email": "arvind.vaidya@ayuship.org",
+      "passwordHash": "9ad341839f2a69b02e8821539aa75d33:622c8b40dbcd9ca7605e912aa828fea074009c0012d5b715f4de22598bff17a8bd4eb9da421010b56b5274b23403a91c0b7e5ad62e9095d3a6931e6ba0b7953f",
+      "role": "VAIDYA",
+      "organization": "Kottakkal Ayurvedic Research Hospital",
+      "state": "Kerala",
+      "dpdpConsent": true,
+      "bdaComplianceAck": true,
+      "legalConsentDate": "2026-09-05T03:58:12.345Z",
+      "registeredAt": "2026-09-05T03:58:12.345Z",
+      "lastLoginAt": "2026-09-05T04:00:10.968Z"
+    },
+    {
+      "id": "usr-mtnuvi7u-jhy6b",
+      "name": "Dr. Arvind Vaidya",
+      "email": "innovator.1788580878272@ayuship.org",
+      "passwordHash": "96a5162181b5089f7e5dec6ce68f90c7:00fa64c948ed098aabf3e363cff9d4961b0cb3d96b172df759572930e442d7927b46a382b12bf5eddba8be34918a719a21759bc295e12c31b4a6775817c73014",
+      "role": "VAIDYA",
+      "organization": "Kottakkal Ayurvedic Research Hospital",
+      "state": "Kerala",
+      "dpdpConsent": true,
+      "bdaComplianceAck": true,
+      "legalConsentDate": "2026-09-05T04:01:18.330Z",
+      "registeredAt": "2026-09-05T04:01:18.330Z",
+      "lastLoginAt": "2026-09-05T04:01:18.372Z"
+    },
+    {
+      "id": "usr-mtnuwdke-nmcxe",
+      "name": "Dr. Arvind Vaidya",
+      "email": "innovator.1788580918884@ayuship.org",
+      "passwordHash": "5262e88914e1342aa656e70184d9bb40:dd8a33177b811d078b47c5432da73068e409dcf7ee9117fd3547f02449f5e18affc208cd4d0f89bae4119f6f2b174bbbed93ceb08e3664d551f7784dde7bef43",
+      "role": "VAIDYA",
+      "organization": "Kottakkal Ayurvedic Research Hospital",
+      "state": "Kerala",
+      "dpdpConsent": true,
+      "bdaComplianceAck": true,
+      "legalConsentDate": "2026-09-05T04:01:58.957Z",
+      "registeredAt": "2026-09-05T04:01:58.957Z",
+      "lastLoginAt": "2026-09-05T04:01:59.003Z"
+    },
+    {
+      "id": "usr-mtnv43ab-0fyup",
+      "name": "Ram Vinayak",
+      "email": "ramvinayakch@gmail.com",
+      "passwordHash": "c86056fc86371478dff8cf89bbfd9297:79cd09339aeb10a83e12418ed197539f1110e607eaf99c45fa889af6926f232c8a54bf4374c612dee764a4ff5e7df48acf89b1784ff7dc25bb1561e0bac9ba50",
+      "role": "STARTUP_MSME",
+      "organization": "demo work",
+      "state": "Andhra Pradesh",
+      "dpdpConsent": true,
+      "bdaComplianceAck": true,
+      "legalConsentDate": "2026-09-05T04:07:58.883Z",
+      "registeredAt": "2026-09-05T04:07:58.883Z",
+      "lastLoginAt": "2026-09-05T04:08:18.298Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "patents-act-3p",
+      "title": "Traditional Knowledge Non-Patentability Bar",
+      "authority": "Indian Patent Office (CGPDTM) / Ministry of Commerce & Industry",
+      "framework": "The Patents Act, 1970 (as amended up to Patents Rules, 2024)",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 3(p)",
+      "effectiveDate": "2005-01-01",
+      "version": "Act No. 39 of 1970 (Amended 2005 & Rules 2024)",
+      "status": "CURRENT",
+      "sourceUrl": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf#page=14",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.483Z",
+      "contentHash": "d869850d95f6b6480fe84f4cb4d7522b450e2598e33dc93b1c9d5618fa1fcac5",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "patents-act-3e",
+      "title": "Mere Admixture and Synergistic Demonstration Requirement",
+      "authority": "Indian Patent Office (CGPDTM)",
+      "framework": "The Patents Act, 1970",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 3(e)",
+      "effectiveDate": "2014-10-29",
+      "version": "Act No. 39 of 1970 & Guidelines for Examination in Pharmaceuticals",
+      "status": "CURRENT",
+      "sourceUrl": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf#page=13",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "155bfa43942fb37ef20e76f58c256da6995655febbc25fd923eb8ec86a50f206",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "patents-act-3d",
+      "title": "Enhancement of Known Efficacy Requirement for Known Substances",
+      "authority": "Indian Patent Office (CGPDTM) / Supreme Court of India",
+      "framework": "The Patents Act, 1970",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 3(d)",
+      "effectiveDate": "2005-01-01",
+      "version": "Act No. 39 of 1970 (Section 3(d))",
+      "status": "CURRENT",
+      "sourceUrl": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf#page=13",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "4751c63061a137d1bea23d1a59aa3dca961d7908be7d79a5bfa900a646e328a7",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "patents-act-10-4",
+      "title": "Mandatory Disclosure of Biological Source & NBA Permission",
+      "authority": "Indian Patent Office (CGPDTM)",
+      "framework": "The Patents Act, 1970 & Patent Rules, 2024",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 10(4)(ii)(D) & Rule 24C",
+      "effectiveDate": "2024-03-15",
+      "version": "Patents (Amendment) Rules, 2024",
+      "status": "CURRENT",
+      "sourceUrl": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf#page=23",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "169158629086cf4b431706e8554ce056d4a2e6ce1008c729a25303c4b649dfa3",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "bda-section-3",
+      "title": "Certain Persons Not to Undertake Biodiversity-Related Activities Without Approval",
+      "authority": "National Biodiversity Authority (NBA) / MoEFCC",
+      "framework": "Biological Diversity Act, 2002 (amended by BD (Amendment) Act, 2023)",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 3 & Section 4",
+      "effectiveDate": "2024-01-01",
+      "version": "Biological Diversity Rules 2024 / Act 2023",
+      "status": "CURRENT",
+      "sourceUrl": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=4",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "d20f17505e0f9522bc4843865918c889b3cb55bd140833053e36484669343504",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "bda-section-6",
+      "title": "Application for Intellectual Property Rights on Biological Resources",
+      "authority": "National Biodiversity Authority (NBA)",
+      "framework": "Biological Diversity Act, 2002 & Biological Diversity Rules, 2024",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 6 & Rule 18 (Form 3)",
+      "effectiveDate": "2024-03-01",
+      "version": "BDA Rules 2024, Rule 18",
+      "status": "CURRENT",
+      "sourceUrl": "https://nbaindia.org/uploaded/act/Biological_Diversity_Act_2002.pdf#page=5",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "87ffabc8e57ffacfccb2ae61296d5c2027328f12b8250f25df10083346fde469",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "bda-section-7-exemption",
+      "title": "Exemptions for Local Vaidyas, Registered AYUSH Practitioners & Cultivated Plants",
+      "authority": "National Biodiversity Authority (NBA) / Ministry of Ayush",
+      "framework": "Biological Diversity (Amendment) Act, 2023 & Clarification Orders",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 7 Proviso & Section 40",
+      "effectiveDate": "2023-08-01",
+      "version": "Act No. 10 of 2023",
+      "status": "CURRENT",
+      "sourceUrl": "https://egazette.gov.in/WriteReadData/2023/247854.pdf#page=3",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "bfbb13af94dc064677521b3eb2127702e2ff4a5d8e48e54e8e02bcc7b8048873",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "dc-act-3a-3h",
+      "title": "Definitions of Classical vs Patent/Proprietary (P&P) ASU Medicines",
+      "authority": "Ministry of Ayush / Central Drugs Standard Control Organization (CDSCO)",
+      "framework": "Drugs and Cosmetics Act, 1940 & Rules, 1945",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 3(a) & Section 3(h)",
+      "effectiveDate": "1940-04-10",
+      "version": "Act No. 23 of 1940 (Chapter IV-A)",
+      "status": "CURRENT",
+      "sourceUrl": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf#page=11",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "5e1b94f5f627fa2548f68173e771eed690b33bac02ee8b02fbe03c105a43fb1a",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "dc-rules-158b",
+      "title": "Licensing Requirements & Evidence Guidelines for ASU Medicines",
+      "authority": "Ministry of Ayush (Ayurvedic, Siddha and Unani Drugs Technical Advisory Board)",
+      "framework": "Drugs and Cosmetics Rules, 1945",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Rule 158-B",
+      "effectiveDate": "2010-08-10",
+      "version": "Notification G.S.R. 560(E)",
+      "status": "CURRENT",
+      "sourceUrl": "https://ayush.gov.in/docs/drugs-cosmetics-rules.pdf#page=5",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "08cddf5fbcd924088206205e1e7e2f266ca6d8e75880d07c4748a8ccd635710a",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "phytopharmaceutical-regulations",
+      "title": "Phytopharmaceutical Drugs Regulatory Pathway",
+      "authority": "CDSCO / Ministry of Health & Family Welfare",
+      "framework": "Drugs and Cosmetics Rules, 1945",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Rule 122-E & Schedule Y (Appendix I-B)",
+      "effectiveDate": "2015-11-30",
+      "version": "G.S.R. 918(E) Phytopharmaceutical Amendment",
+      "status": "CURRENT",
+      "sourceUrl": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/Gazette_Notification_Phytopharmaceutical.pdf#page=2",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "fd3222559c53d9e3612c6155889c0f77139961fa43e19d665bb424ecd406a8dc",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "fssai-ayurveda-aahar-2022",
+      "title": "Ayurveda Aahar (Food) Standards and Disease Claim Prohibitions",
+      "authority": "Food Safety and Standards Authority of India (FSSAI) & Ministry of Ayush",
+      "framework": "Food Safety and Standards (Ayurveda Aahar) Regulations, 2022",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Regulations 3, 4, 5 & Schedule I/II",
+      "effectiveDate": "2022-05-05",
+      "version": "Gazette Notification F. No. Std/SP-05/A-1.2022/N-01",
+      "status": "CURRENT",
+      "sourceUrl": "https://fssai.gov.in/upload/notifications/2022/05/627a3f4caef0bGazette_Notification_Ayurveda_Aahar_09_05_2022.pdf#page=4",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "a910d705b089546dfae36a0e657860a7912d660c9671808ff33d8d72feb2c601",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "dmr-act-1954",
+      "title": "Absolute Prohibition of Advertisements for Specified Diseases",
+      "authority": "Ministry of Health & Family Welfare / State Drug Controllers",
+      "framework": "Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 3 & Schedule",
+      "effectiveDate": "1955-04-01",
+      "version": "Act No. 21 of 1954",
+      "status": "CURRENT",
+      "sourceUrl": "https://legislative.gov.in/sites/default/files/A1954-21_0.pdf#page=2",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "d625066e9b2ee44198fd4181f34ec6b73f97c5e1345afe022e92f7815422538a",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "tm-act-section-9",
+      "title": "Prohibition on Registering Descriptive Ayurvedic & Sanskrit Botanical Names",
+      "authority": "Trade Marks Registry (CGPDTM)",
+      "framework": "Trade Marks Act, 1999",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 9(1)(b) & Section 9(1)(c)",
+      "effectiveDate": "2003-09-15",
+      "version": "Act No. 47 of 1999",
+      "status": "CURRENT",
+      "sourceUrl": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_43_1_trade-marks-act.pdf#page=11",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "bb9c36d187195da2f8384598451a252b9471310a5361086447d158a4b5f071e5",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "gi-act-1999",
+      "title": "Protection of Agro-Climatic Botanical Varieties and Traditional Formulations",
+      "authority": "Geographical Indications Registry (CGPDTM)",
+      "framework": "Geographical Indications of Goods (Registration and Protection) Act, 1999",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 8 & Section 11",
+      "effectiveDate": "2003-09-15",
+      "version": "Act No. 48 of 1999",
+      "status": "CURRENT",
+      "sourceUrl": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_44_1_GI_Act_1999.pdf#page=5",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "4a4cd89b57a0a8ad30b22bff0bc90aadb6f1eab0f42f41d7f880af522a0daf41",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "ppvfr-act-2001",
+      "title": "Plant Variety Protection for Medicinal & Aromatic Cultivars",
+      "authority": "Protection of Plant Varieties and Farmers' Rights Authority (PPV&FRA) / Ministry of Agriculture",
+      "framework": "Protection of Plant Varieties and Farmers' Rights Act, 2001 & Rules, 2003",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Section 14, Section 15, Section 16, Section 39(1)(iv) & Section 30",
+      "effectiveDate": "2005-11-11",
+      "version": "Act No. 53 of 2001 & PPV&FR Rules 2003",
+      "status": "CURRENT",
+      "sourceUrl": "https://plantauthority.gov.in/sites/default/files/PPVFR_Act_2001.pdf#page=9",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "6ebf66a2842c78e691723147dab055f2c4d6b64c5b3b0f658206ee74b2177dcf",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "trade-secrets-india",
+      "title": "Trade Secret Protection for Proprietary Ayurvedic Manufacturing Processes",
+      "authority": "Indian Courts (Common Law) / WTO TRIPS Council",
+      "framework": "Indian Contract Act 1872 (Section 27), TRIPS Agreement Article 39, Information Technology Act 2000 (Section 72)",
+      "jurisdiction": "INDIA",
+      "sectionArticleRule": "Common Law Confidentiality, TRIPS Art 39.2 & IT Act Section 72",
+      "effectiveDate": "1995-01-01",
+      "version": "TRIPS Agreement 1994, Art 39; Indian Contract Act 1872",
+      "status": "CURRENT",
+      "sourceUrl": "https://www.wto.org/english/docs_e/legal_e/27-trips_04d_e.htm#39",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "38a31e0df6ea1974c60ea449defe4e60cce66bce9c13db554f47557361d669f0",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "wipo-gratk-treaty-2024",
+      "title": "Genetic Resource / Traditional Knowledge Disclosure Treaty — Status-Aware Guidance",
+      "authority": "World Intellectual Property Organization (WIPO)",
+      "framework": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge",
+      "jurisdiction": "INTERNATIONAL",
+      "sectionArticleRule": "Article 3, Article 4 & Article 17",
+      "effectiveDate": "2024-05-24",
+      "version": "Status verified against WIPO notification, March 13, 2026",
+      "status": "CURRENT",
+      "sourceUrl": "https://www.wipo.int/wipolex/en/treaties/notifications/details/treaty_gratk_3",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "617f78eb914cd27b9a7df7a1e94e35250ac126cce238f77ad3da5cd682808078",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "cbd-nagoya-protocol",
+      "title": "Sovereignty over Genetic Resources, Prior Informed Consent (PIC) & Mutually Agreed Terms (MAT)",
+      "authority": "United Nations Convention on Biological Diversity (CBD) Secretariat",
+      "framework": "Convention on Biological Diversity (1992) & Nagoya Protocol on Access and Benefit-Sharing",
+      "jurisdiction": "INTERNATIONAL",
+      "sectionArticleRule": "CBD Article 15 & Nagoya Protocol Articles 5, 6 & 15",
+      "effectiveDate": "2014-10-12",
+      "version": "UNEP/CBD/COP/10/27",
+      "status": "CURRENT",
+      "sourceUrl": "https://www.cbd.int/doc/legal/nagoya-protocol-en.pdf#page=6",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "9cffdd8cc6516e66f0d6e189c6c72f42d2acaaf26edc999e8ccc734ab5a69787",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "trips-article-27",
+      "title": "Patentable Subject Matter and Exclusions for Natural Plants/Animals",
+      "authority": "World Trade Organization (WTO)",
+      "framework": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+      "jurisdiction": "INTERNATIONAL",
+      "sectionArticleRule": "Article 27.1 & Article 27.3(b)",
+      "effectiveDate": "1995-01-01",
+      "version": "TRIPS Agreement 1994",
+      "status": "CURRENT",
+      "sourceUrl": "https://www.wto.org/english/docs_e/legal_e/27-trips_04c_e.htm#27",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "7e0660254a30af8595d0db6e511c229b771e7da3747d2d654c830d2072a25635",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "pct-madrid-hague",
+      "title": "Unified International Filing Mechanisms for Patents and Trademarks",
+      "authority": "World Intellectual Property Organization (WIPO)",
+      "framework": "Patent Cooperation Treaty (PCT) & Madrid System for Trade Marks",
+      "jurisdiction": "INTERNATIONAL",
+      "sectionArticleRule": "PCT Chapter I/II & Madrid Protocol Article 2",
+      "effectiveDate": "2023-01-01",
+      "version": "PCT Regulations as in force",
+      "status": "CURRENT",
+      "sourceUrl": "https://www.wipo.int/pct/en/texts/articles/a15.html",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "c811eaf9314d7a3b5c627499cb383e21835935266185ad1f72a94e64c8fd6ce9",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "us-fda-dshea-herbal",
+      "title": "US Herbal Product Classification: Dietary Supplements vs Botanical Drugs",
+      "authority": "United States Food and Drug Administration (US FDA)",
+      "framework": "Federal Food, Drug, and Cosmetic Act & DSHEA of 1994",
+      "jurisdiction": "INTERNATIONAL",
+      "sectionArticleRule": "21 U.S.C. 343(r)(6) & 21 CFR Part 190.6 (NDI)",
+      "effectiveDate": "1994-10-15",
+      "version": "Public Law 103-417 & 21 CFR 190",
+      "status": "CURRENT",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/USCODE-2021-title21/pdf/USCODE-2021-title21-chap9-subchapIV-sec343.pdf#page=4",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "3855bacdb912fd40ecdd454995cef14eed6ea465991f2d8ada9b5a068313a39e",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "eu-thmpd-directive",
+      "title": "EU Simplified Registration Scheme and 30/15-Year Traditional Use Hurdle",
+      "authority": "European Medicines Agency (EMA) / European Commission",
+      "framework": "Directive 2004/24/EC amending Directive 2001/83/EC (THMPD)",
+      "jurisdiction": "INTERNATIONAL",
+      "sectionArticleRule": "Article 16a to 16i (Traditional Herbal Medicinal Products)",
+      "effectiveDate": "2004-04-30",
+      "version": "Directive 2004/24/EC",
+      "status": "CURRENT",
+      "sourceUrl": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:136:0085:0090:EN:PDF#page=2",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "a7e4aaf7567c8f8af05b8dbb90ad39c5d85a8973c7d17caebb710992e4847b65",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "uk-mhra-thr",
+      "title": "UK Traditional Herbal Medicines Framework Post-Brexit",
+      "authority": "UK Medicines and Healthcare products Regulatory Agency (MHRA)",
+      "framework": "Human Medicines Regulations 2012 (Part 7)",
+      "jurisdiction": "INTERNATIONAL",
+      "sectionArticleRule": "Traditional Herbal Registration (THR) Scheme",
+      "effectiveDate": "2021-01-01",
+      "version": "UK Statutory Instrument 2012 No. 1916",
+      "status": "CURRENT",
+      "sourceUrl": "https://www.legislation.gov.uk/uksi/2012/1916/part/7/made",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "7e778eea45bfb683cae6ac3dd91a277a0c70c0ba39d1bab187f0bff08abf3eae",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "uae-mohap-herbal",
+      "title": "UAE Registration for Ayurvedic and Herbal Preparations",
+      "authority": "UAE Ministry of Health and Prevention (MoHAP)",
+      "framework": "Federal Law No. 4 of 1983 regarding the Pharmaceutical Profession and Institutions",
+      "jurisdiction": "INTERNATIONAL",
+      "sectionArticleRule": "Registration Guidelines for Herbal and Complementary Medicines",
+      "effectiveDate": "2022-01-01",
+      "version": "MoHAP Complementary Medicine Registration Guide 2022",
+      "status": "CURRENT",
+      "sourceUrl": "https://mohap.gov.ae/en/services/issue-a-registration-certificate-for-herbal-and-complementary-medicine",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "a756a86ad8caaa7bd345128799888e3d95af3ae1e4e48ea937779b41a693d773",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    },
+    {
+      "id": "budapest-treaty-microorganism",
+      "title": "International Microorganism Deposit for Patent Disclosure in Fermented Ayurvedic Preparations",
+      "authority": "World Intellectual Property Organization (WIPO)",
+      "framework": "Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure (1977, amended 1980)",
+      "jurisdiction": "INTERNATIONAL",
+      "sectionArticleRule": "Articles 3, 4, 5, 6 & 7",
+      "effectiveDate": "2001-12-17",
+      "version": "Budapest Treaty 1977 (amended September 26, 1980)",
+      "status": "CURRENT",
+      "sourceUrl": "https://www.wipo.int/wipolex/en/treaties/textdetails/en/treaties/18/budapest",
+      "sourceType": "STATUTE",
+      "verificationStatus": "VERIFIED_OFFICIAL",
+      "retrievalTimestamp": "2026-09-05T03:57:10.484Z",
+      "contentHash": "1d27f2b0809079014a530392761e1f569648bf108f8ca631910fe490aa3cce78",
+      "chunkCount": 1,
+      "createdAt": "2026-09-05T03:57:10.484Z",
+      "updatedAt": "2026-09-05T03:57:10.484Z"
+    }
+  ],
+  "reviewTasks": [],
+  "uploads": []
+}

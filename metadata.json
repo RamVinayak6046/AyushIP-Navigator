@@ -1,0 +1,6 @@
+{
+  "name": "AyushIP Navigator",
+  "description": "Statutory AI decision-support platform for Intellectual Property, Patents, Biodiversity/ABS, and Regulatory Guidance in Traditional Medicine (Ministry of Ayush - SIH26045)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
