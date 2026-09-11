@@ -1,20 +1,72 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AyushIP Navigator
 
-# Run and deploy your AI Studio app
+### SIH 2026 — SIH26045
+**IP-SAKTI Sahayak: A Multilingual, RAG-Based (Source-Cited) AI Assistant for Intellectual Property and Regulatory Guidance in Ayurveda**
 
-This contains everything you need to run your app locally.
+AyushIP Navigator is an evidence-grounded AI decision-support system designed to simplify Intellectual Property (IP), Traditional Knowledge (TK), Access and Benefit Sharing (ABS), and regulatory guidance for Ayurveda-related products.
 
-View your app in AI Studio: https://ai.studio/apps/cffc93f2-f73f-4797-987e-2cb04c732469
+The system guides users from product information to relevant IP and regulatory pathways while maintaining a clear distinction between **Indian and International jurisdictions**.
 
-## Run Locally
+> **Important:** AyushIP Navigator provides informational and decision-support guidance. It is not a substitute for professional legal, regulatory, patent, or compliance advice.
 
-**Prerequisites:**  Node.js
+---
 
+## 🎯 Problem
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Ayurveda-based products can involve multiple overlapping areas:
+
+- Patents and prior art
+- Traditional Knowledge (TK)
+- Geographical Indications (GI)
+- Trademarks
+- Copyright
+- Industrial Designs
+- Plant Variety Protection
+- Trade Secrets
+- Access and Benefit Sharing (ABS)
+- Drug and cosmetic regulations
+- Food and nutraceutical regulations
+- International IP and regulatory requirements
+
+Relevant information is distributed across different laws, government sources, databases, treaties, and regulatory frameworks.
+
+Users therefore face difficulties in determining:
+
+1. Which classification applies to their product
+2. Which IP regimes may be relevant
+3. Whether Traditional Knowledge or biological resources are involved
+4. Whether ABS considerations may apply
+5. Which regulatory pathway is relevant
+6. How Indian requirements differ from international requirements
+7. Which authoritative sources support the guidance
+
+---
+
+## 💡 Our Solution
+
+AyushIP Navigator converts this fragmented process into a guided, evidence-grounded workflow.
+
+### Core workflow
+
+```text
+Product Information
+        ↓
+Adaptive Questions
+        ↓
+Product Classification
+        ↓
+Intent & IP/Regulatory Routing
+        ↓
+India / International Jurisdiction
+        ↓
+Hybrid RAG Retrieval
+        ↓
+Evidence Validation
+        ↓
+Gemini Reasoning
+        ↓
+Source-Cited Guidance
+        ↓
+Confidence & Safe Abstention
+        ↓
+Human Review when Required
